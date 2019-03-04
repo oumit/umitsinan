@@ -8,12 +8,14 @@ p {
 h1 {
   color: navy;
   margin-left: 20px;
+  text-align: center;
 }
-body {
+body, ul {
   border: 1px solid black;
   background-color: lightblue;
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+  text-align: center;
 }
